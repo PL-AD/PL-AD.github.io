@@ -161,8 +161,8 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 					<img
 					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg"
 					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
+					data-original-set="http:wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
+					srcset="http://wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
 					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
 					alt="Villa « Ghost »"
 					class="lazyload"
