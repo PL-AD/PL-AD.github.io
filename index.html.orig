@@ -147,13 +147,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 8% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt=""
-					class="lazyload"
+					src="wp-content/uploads/2020/09/INSTA-600x48.png"
 					>
 				</div>
 			</span>
@@ -176,13 +170,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 8% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt=""
-					class="lazyload"
+					src="http://wp-content/uploads/2020/09/ILLUS-1-600x48.png"
 					>
 				</div>
 			</span>
@@ -205,13 +193,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 8% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt=""
-					class="lazyload"
+					src="http://wp-content/uploads/2020/09/PHOT-600x48.png"
 					>
 				</div>
 			</span>
@@ -234,13 +216,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 8% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt=""
-					class="lazyload"
+					src="http://wp-content/uploads/2020/09/PROD-600x48.png"
 					>
 				</div>
 			</span>
@@ -263,13 +239,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 131.4% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Villa « Ghost »"
-					class="lazyload"
+					src="http://wp-content/uploads/2020/05/P001-8-600x789.jpg"
 					>
 				</div>
 			</span>
@@ -292,13 +262,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 84.4% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-600x507.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-600x507.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-500x422.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08.jpg 761w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-600x507.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-600x507.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-500x422.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08.jpg 761w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-600x507.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/S001-08-600x507.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="L&rsquo;escalier jaune"
-					class="lazyload"
+					src="http://wp-content/uploads/2020/05/S001-08-600x507.jpg"
 					>
 				</div>
 			</span>
@@ -321,13 +285,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 135.2% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m-500x676.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg 529w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg 529w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg 529w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m-500x676.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg 529w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg 529w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/12/A001-02m.jpg 529w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Filtre AR GLEO"
-					class="lazyload"
+					src="http://wp-content/uploads/2019/12/A001-02m.jpg"
 					>
 				</div>
 			</span>
@@ -350,13 +308,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 75.6% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-600x454.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-600x454.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-500x378.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-1000x756.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-600x454.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-600x454.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-500x378.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-1000x756.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-600x454.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/I001-icone2-600x454.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Hotel de caractère &#8211; spa  Perspectives"
-					class="lazyload"
+					src="http://wp-content/uploads/2019/02/I001-icone2-600x454.jpg"
 					>
 				</div>
 			</span>
@@ -379,13 +331,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 56.2% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Bateau pour le marais Poitevin &#8211; Perspectives"
-					class="lazyload"
+					src="http://wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg"
 					>
 				</div>
 			</span>
@@ -408,13 +354,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 56.2% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Bateau à scow &#8211; Perspectives"
-					class="lazyload"
+					src="http://wp-content/uploads/2020/01/Image-2-v3-600x338.jpg"
 					>
 				</div>
 			</span>
@@ -437,13 +377,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 103.4% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-600x620.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-600x620.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-500x517.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-1000x1033.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-600x620.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-600x620.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-500x517.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-1000x1033.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-600x620.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P002-13-600x620.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Projet de Fin d&rsquo;Études &#8211; Au Creux du Mur"
-					class="lazyload"
+					src="http://wp-content/uploads/2020/05/P002-13-600x620.jpg"
 					>
 				</div>
 			</span>
@@ -466,13 +400,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 65% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-600x390.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-600x390.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-500x325.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-1000x650.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-600x390.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-600x390.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-500x325.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-1000x650.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-600x390.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/02/iconGuiI001-600x390.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Thermes de la Saline Royale &#8211; Perspectives &#8211;"
-					class="lazyload"
+					src="http://wp-content/uploads/2019/02/iconGuiI001-600x390.jpg"
 					>
 				</div>
 			</span>
@@ -495,13 +423,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 82.6% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-600x496.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-600x496.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-500x413.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-1000x826.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-600x496.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-600x496.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-500x413.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-1000x826.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-600x496.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/10/R003-02-600x496.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Voilier à Foils &#8211; Perspectives &#8211;"
-					class="lazyload"
+					src="http://wp-content/uploads/2019/10/R003-02-600x496.jpg"
 					>
 				</div>
 			</span>
@@ -524,13 +446,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 64.2% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-500x321.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-1000x642.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-500x321.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-1000x642.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Portfolio 2019"
-					class="lazyload"
+					src="http://wp-content/uploads/2019/09/book-600x385.jpg"
 					>
 				</div>
 			</span>
@@ -553,13 +469,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 68.6% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-600x412.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-600x412.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-500x343.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min.jpg 704w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-600x412.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-600x412.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-500x343.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min.jpg 704w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-600x412.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/A002min-600x412.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Décoration paramétrique"
-					class="lazyload"
+					src="http://wp-content/uploads/2019/09/A002min-600x412.jpg"
 					>
 				</div>
 			</span>
@@ -582,13 +492,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 87.2% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-500x436.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-1000x871.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-500x436.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-1000x871.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="T-shirt ensan"
-					class="lazyload"
+					src="http://wp-content/uploads/2020/05/TSHIRT-PIERRE_LAURENT-600x523.jpg"
 					>
 				</div>
 			</span>
@@ -611,13 +515,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 55.6% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-600x334.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-600x334.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-500x278.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-1000x557.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-600x334.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-600x334.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-500x278.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-1000x557.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-600x334.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2018/09/wallet-600x334.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Portefeuille noir"
-					class="lazyload"
+					src="http://wp-content/uploads/2018/09/wallet-600x334.jpg"
 					>
 				</div>
 			</span>
@@ -640,13 +538,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<span class="project-img">
 				<div class="intrinsic" style="padding-top: 88.8% ">
 					<img
-					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-600x533.jpg"
-					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-600x533.jpg"
-					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-500x444.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02.jpg 949w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-600x533.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-600x533.jpg 600w"
-					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-500x444.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02.jpg 949w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-600x533.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2017/06/D002-02-600x533.jpg 600w"
-					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
-					alt="Persiennes Paramétriques"
-					class="lazyload"
+					src="http://wp-content/uploads/2017/06/D002-02-600x533.jpg"
 					>
 				</div>
 			</span>
