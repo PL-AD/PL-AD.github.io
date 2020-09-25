@@ -31,21 +31,20 @@ img.emoji {
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='http://127.0.0.1:10080/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='block-gallery-frontend-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/block-gallery/dist/blocks.style.build.css?ver=1.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='cb70d11b8-css'  href='http://127.0.0.1:10080/wordpress/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1600033763' type='text/css' media='all' />
 <link rel='stylesheet' id='charmed-fonts-css'  href='https://fonts.googleapis.com/css?family=Karla&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='charmed-style-css'  href='http://127.0.0.1:10080/wordpress/wp-content/themes/charmed-pro-master/style.css?ver=5.5.1' type='text/css' media='all' />
 <style id='charmed-style-inline-css' type='text/css'>
 body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a svg,body .portfolio-sharing .svg__wrapper svg,body .widget-area .menu-social-menu-container a svg{fill:#222222;}body,body .post--wrapper,body .sticky-wrapper,body .project-caption{background-color:#f4f4f4;}body{font-family:Karla !important;font-size:15px !important;line-height:26px !important;letter-spacing:0px !important;word-spacing:0px !important;}article.page h2.entry-title{font-family:Karla !important;font-size:26px !important;line-height:26px !important;letter-spacing:0px !important;word-spacing:0px !important;}.site-archive,.entry-content p{font-size:19px !important;line-height:32px !important;word-spacing:0px !important;}body.single,body.page,body.home,body button,body input,body select,body textarea,p a:hover,body.single .project-meta h6,body.single .project-meta h6 a{color:#222222;}body .header .project-filter a,body .header .main-navigation a{color:#222222;}body .site-footer,body .site-footer a{color:#999999;}body h6.widget-title,body .project-taxonomy h6,body .project-taxonomy a{color:#999999;}body h1,body h2,body h3,body h4,body h5,body h1.site-logo a{color:#222222;}a:hover,a:focus,a:active,.entry-content p a,body .site-footer a:hover,body .header .project-filter a:hover,body .header .main-navigation a:hover,body .header .project-filter a.active,.logo_text:hover,.widget ul li a:hover,.current-menu-item a,.portfolio .project-meta a:hover,.page-links a span:not(.page-links-title):hover,.page-links span:not(.page-links-title){color:#ea3a00;}.cats,h1 a:hover,.logo a h1:hover,.tagcloud a:hover,nav ul li a:hover,.widget li a:hover,.entry-meta a:hover,.header-alt a:hover,.pagination a:hover,.post-after a:hover,.bean-tabs > li.active > a,.bean-panel-title > a:hover,.archives-list ul li a:hover,nav ul li.current-menu-item a,.bean-tabs > li.active > a:hover,.bean-tabs > li.active > a:focus,.bean-pricing-table .pricing-column li.info:hover{color:#ea3a00!important;}button:hover,button:focus,.button:hover,.button:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,.wpcf7-form textarea:focus,.wpcf7-form input:focus{border-color:#ea3a00;}button:hover,button:focus,.button:hover,.button:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,.bean-btn,.tagcloud a,nav a h1:hover,div.jp-play-bar,#nprogress .bar,.avatar-list li a.active,div.jp-volume-bar-value,.bean-direction-nav a:hover,.bean-pricing-table .table-mast,.entry-categories a:hover,.pagination .prev:hover,.pagination .prev:focus,.pagination .next:hover,.pagination .next:focus,.bean-contact-form .bar:before,.post .post-slider.fade .bean-direction-nav a:hover{background-color:#ea3a00;}#nprogress .bar{box-shadow:0 0 10px rgba( 234,58,0,0.4);}.bean-btn{border:1px solid #ea3a00!important;}.bean-quote{background-color:#ea3a00!important;}
 </style>
 <link rel='stylesheet' id='elementor-icons-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-animations-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-59-css'  href='http://127.0.0.1:10080/wordpress/wp-content/uploads/elementor/css/post-59.css?ver=1592768893' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-pro-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.9.4' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css'  href='http://127.0.0.1:10080/wordpress/wp-content/uploads/elementor/css/global.css?ver=1600014935' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Karla%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-59-css'  href='http://127.0.0.1:10080/wordpress/wp-content/uploads/elementor/css/post-59.css?ver=1600110109' type='text/css' media='all' />
+<link rel='stylesheet' id='wb-elementor-before-after-slider-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/css/twentytwenty.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='http://127.0.0.1:10080/wordpress/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://127.0.0.1:10080/wordpress/wp-content/uploads/elementor/css/global.css?ver=1600110119' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMuli%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CKarla%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' type='text/css' media='all' />
 <script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="http://127.0.0.1:10080/wordpress/wp-json/" /><link rel="alternate" type="application/json" href="http://127.0.0.1:10080/wordpress/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://127.0.0.1:10080/wordpress/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://127.0.0.1:10080/wordpress/wp-includes/wlwmanifest.xml" /> 
@@ -63,7 +62,7 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 	<div id="page" class="hfeed site page-container clearfix">
 
 
-<header id="masthead" class="site-header header brick" data-views="99999999999999999999" data-date="2020913214923">
+<header id="masthead" class="site-header header brick" data-views="99999999999999999999" data-date="2020925225853">
 
 	<div class="inner">
 
@@ -72,8 +71,6 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 			<nav id="site-navigation" class="main-navigation nav primary">
 				<div class="menu-menu-container"><ul id="menu-menu" class="primary-menu"><li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="http://127.0.0.1:10080/wordpress/a-propos-de-moi/">A propos</a></li>
 <li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li id="menu-item-527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-527"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/pitholaur/">Photographie</a></li>
-<li id="menu-item-528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-528"><a target="_blank" rel="noopener noreferrer" href="https://www.artstation.com/pitholaur">Illustrations</a></li>
 </ul></div>			</nav>
 
 							<a id="nav-btn" class="mobile-menu-toggle" href="javascript:void(0);">
@@ -81,15 +78,6 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 				</a>
 			
 		
-		
-			<nav class="social-navigation" aria-label="Social Menu">
-
-				<div class="menu-social-container"><ul id="menu-social" class="social-links-menu"><li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/pitholaur/"><span class="screen-reader-text">insta</span><svg class="icon icon--instagram" aria-hidden="true" role="img"><use xlink:href="#icon-instagram"></use></svg></a></li>
-<li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188"><a href="https://www.youtube.com/channel/UCrHN6ZI6-aW8D75a0I8YWvw"><span class="screen-reader-text">youtube</span><svg class="icon icon--youtube" aria-hidden="true" role="img"><use xlink:href="#icon-youtube"></use></svg></a></li>
-<li id="menu-item-177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-177"><a target="_blank" rel="noopener noreferrer" href="https://www.artstation.com/pitholaur"><span class="screen-reader-text">artstation</span><svg class="icon icon--chain" aria-hidden="true" role="img"><use xlink:href="#icon-chain"></use></svg></a></li>
-</ul></div>
-			</nav><!-- .social-navigation -->
-
 		
 		
 
@@ -152,7 +140,123 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 <div class="brick-fullwidth animsition brick">
 <div class="bricks">
 
-	<article class="brick 26 " data-views="2" data-date="2020509220801"><a href="http://127.0.0.1:10080/wordpress/portfolio/villa-ghost/" class="brick--link" rel="bookmark">
+	<article class="brick 26 31 29 " data-views="2" data-date=""><a href="https://www.instagram.com/pitholaur/" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 8% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/INSTA-600x48.png 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt=""
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+																	</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
+<article class="brick 29 " data-views="3" data-date=""><a href="https://www.artstation.com/pitholaur" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 8% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/ILLUS-1-600x48.png 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt=""
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+																	</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
+<article class="brick 31 " data-views="2" data-date=""><a href="https://www.flickr.com/photos/190122072@N04" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 8% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PHOT-600x48.png 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt=""
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+																	</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
+<article class="brick 31 " data-views="2" data-date=""><a href="https://www.youtube.com/channel/UCrHN6ZI6-aW8D75a0I8YWvw" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 8% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-500x40.png 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-1000x80.png 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/09/PROD-600x48.png 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt=""
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+																	</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
+<article class="brick 26 " data-views="2" data-date="2020509220801"><a href="http://127.0.0.1:10080/wordpress/portfolio/villa-ghost/" class="brick--link" rel="bookmark">
 			<div class="thumb">
 
 				
@@ -161,8 +265,8 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 					<img
 					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg"
 					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg"
-					data-original-set="http:wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
-					srcset="http://wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-500x657.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-1000x1315.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/P001-8-600x789.jpg 600w"
 					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
 					alt="Villa « Ghost »"
 					class="lazyload"
@@ -268,6 +372,64 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 
 	</article>
 
+<article class="brick 42 41 " data-views="0" data-date="2020520165624"><a href="http://127.0.0.1:10080/wordpress/portfolio/bateau-pour-le-marais-poitevin-perspectives/" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 56.2% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/05/Marais-Poitevin-V2_Avant-600x338.jpg 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt="Bateau pour le marais Poitevin &#8211; Perspectives"
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+						<h2 class="entry-title">Bateau pour le marais Poitevin &#8211; Perspectives</h2>						<div class="project-tags"><span>#Perspectives</span><span>#commission</span></div>					</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
+<article class="brick 42 41 " data-views="0" data-date="2020125175618"><a href="http://127.0.0.1:10080/wordpress/portfolio/bateau-de-course-et-plaisance-perspectives/" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 56.2% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-500x281.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-1000x563.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2020/01/Image-2-v3-600x338.jpg 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt="Bateau à scow &#8211; Perspectives"
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+						<h2 class="entry-title">Bateau à scow &#8211; Perspectives</h2>						<div class="project-tags"><span>#Perspectives</span><span>#commission</span></div>					</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
 <article class="brick 26 " data-views="0" data-date="2018615195652"><a href="http://127.0.0.1:10080/wordpress/portfolio/projet-de-fin-detudes-au-creux-du-mur/" class="brick--link" rel="bookmark">
 			<div class="thumb">
 
@@ -346,6 +508,35 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 				<div class="overlay-wrap">
 					<div class="center">
 						<h2 class="entry-title">Voilier à Foils &#8211; Perspectives &#8211;</h2>						<div class="project-tags"><span>#Sponsors</span><span>#T. Klink</span></div>					</div>
+				</div>
+
+				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
+			</div>
+
+		</a>
+
+	</article>
+
+<article class="brick 29 " data-views="0" data-date="2019921211918"><a href="http://127.0.0.1:10080/wordpress/portfolio/portfolio-2019/" class="brick--link" rel="bookmark">
+			<div class="thumb">
+
+				
+			<span class="project-img">
+				<div class="intrinsic" style="padding-top: 64.2% ">
+					<img
+					src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg"
+					data-original="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg"
+					data-original-set="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-500x321.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-1000x642.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w"
+					srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-500x321.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-1000x642.jpg 1000w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2019/09/book-600x385.jpg 600w"
+					sizes="(min-width: 300px) 90vw, (min-width: 649px) 40vw, (min-width: 769px) 60vw, (min-width: 900px) 20vw, 100vw"
+					alt="Portfolio 2019"
+					class="lazyload"
+					>
+				</div>
+			</span>
+				<div class="overlay-wrap">
+					<div class="center">
+						<h2 class="entry-title">Portfolio 2019</h2>						<div class="project-tags"><span>#Portfolio</span><span>#Design d'impression</span></div>					</div>
 				</div>
 
 				<div class="thumb thumb--second lazyload" style="background-image: url();"></div>
@@ -479,12 +670,9 @@ body .custom-logo-link img.custom-logo{width:150px;}body .social-navigation a sv
 	</div>
 </div>
 
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/127.0.0.1:10080\/wordpress\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/js/jquery.event.move.js?ver=1.0.0' id='wb-elementor-before-after-slider-event-move-js'></script>
+<script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/js/jquery.twentytwenty.js?ver=1.0.0' id='wb-elementor-before-after-slider-library-js'></script>
+<script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/plugins/before-after-image-comparison-slider-for-elementor//assets/js/main.js?ver=1.0.0' id='wb-elementor-before-after-slider-main-js'></script>
 <script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/themes/charmed-pro-master/assets/js/vendors/wow.js?ver=@@pkg.version' id='wow-js'></script>
 <script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/themes/charmed-pro-master/assets/js/vendors/isotope.js?ver=@@pkg.version' id='isotope-js'></script>
 <script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/themes/charmed-pro-master/assets/js/vendors/infinitescroll.js?ver=@@pkg.version' id='infinitescroll-js'></script>
@@ -501,10 +689,10 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/127.0.0.1:10080\/wordpress\/wp-json
 <script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
 <script type='text/javascript' id='cb70d11b8-js-extra'>
 /* <![CDATA[ */
-var localize = {"ajaxurl":"http:\/\/127.0.0.1:10080\/wordpress\/wp-admin\/admin-ajax.php","nonce":"518408732b","ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http:\/\/wiki.lexisnexis.com\/academic\/images\/f\/fb\/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"}};
+var localize = {"ajaxurl":"http:\/\/127.0.0.1:10080\/wordpress\/wp-admin\/admin-ajax.php","nonce":"d4157b0cd1","ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http:\/\/wiki.lexisnexis.com\/academic\/images\/f\/fb\/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1600033765' id='cb70d11b8-js'></script>
+<script type='text/javascript' src='http://127.0.0.1:10080/wordpress/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1601074734' id='cb70d11b8-js'></script>
 <svg id="sprite" xmlns="http://www.w3.org/2000/svg" version="1.0">
 
 	<symbol id="icon-play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><g><path d="M50,13.5c-20.126,0-36.5,16.374-36.5,36.5S29.874,86.5,50,86.5S86.5,70.126,86.5,50S70.126,13.5,50,13.5z M42.629,66.107   V33.893L65.371,50L42.629,66.107z"/></g></symbol>
