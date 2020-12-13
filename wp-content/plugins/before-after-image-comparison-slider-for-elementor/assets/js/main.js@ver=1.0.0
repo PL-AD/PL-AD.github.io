@@ -1,6 +1,6 @@
 'use strict';
 (function ($) {
-	jQuery(window).load(function(){
+	jQuery(window).on('load',function(){
 		jQuery(window).trigger('resize');
 	});
 
